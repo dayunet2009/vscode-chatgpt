@@ -1,3 +1,7 @@
+## Because gencay.vscode-chatgpt has been removed, this is a fork version, and continues to be updated and maintained
+
+---
+
 <p>
   Hi everyone - Thank you for your interest in this extension.
 

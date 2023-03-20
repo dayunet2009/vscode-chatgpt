@@ -1,13 +1,13 @@
 {
-  "name": "vscode-chatgpt",
-  "publisher": "YOUR_PUBLISHER_NAME",
-  "displayName": "vscode-chatgpt",
+  "name": "vscode-chatgpt-ai",
+  "publisher": "dayunet2009",
+  "displayName": "vscode-chatgpt-ai",
   "icon": "images/ai-logo.jpg",
-  "description": "vscode-chatgpt",
-  "version": "3.9.7-0",
+  "description": "gencay.vscode-chatgpt has been removed, this is a fork version, and continues to be updated and maintained",
+  "version": "3.9.8",
   "aiKey": "",
   "repository": {
-    "url": "https://github.com/YOUR_PUBLISHER_NAME/vscode-chatgpt"
+    "url": "https://github.com/dayunet2009/vscode-chatgpt"
   },
   "engines": {
     "vscode": "^1.73.0"
