@@ -111,7 +111,7 @@ export default class ChatGptViewProvider implements vscode.WebviewViewProvider {
 					});
 					break;
 				case 'openSettings':
-					vscode.commands.executeCommand('workbench.action.openSettings', "@ext:dayunet2009.vscode-chatgpt chatgpt.");
+					vscode.commands.executeCommand('workbench.action.openSettings', "@ext:dayunet2009.vscode-chatgpt-ai chatgpt.");
 
 					this.logEvent("settings-opened");
 					break;
