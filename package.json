@@ -4,7 +4,7 @@
   "displayName": "vscode-chatgpt-ai",
   "icon": "images/ai-logo.jpg",
   "description": "gencay.vscode-chatgpt has been removed, this is a fork version, and continues to be updated and maintained",
-  "version": "3.9.9",
+  "version": "3.9.10",
   "aiKey": "",
   "repository": {
     "url": "https://github.com/dayunet2009/vscode-chatgpt"
